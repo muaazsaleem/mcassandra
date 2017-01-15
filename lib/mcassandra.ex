@@ -1,0 +1,2 @@
+defmodule Mcassandra do
+end

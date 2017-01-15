@@ -1,0 +1,638 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"keys",
+				"keys_range"
+			],
+			[
+				"ta",
+				"table_name"
+			],
+			[
+				"co",
+				"columns"
+			],
+			[
+				"ST",
+				"starts_with"
+			],
+			[
+				"s",
+				"String"
+			],
+			[
+				"star",
+				"starts_with"
+			],
+			[
+				"0x",
+				"0xBF"
+			],
+			[
+				"mem",
+				"members_size"
+			],
+			[
+				"Mem",
+				"MemberListEntry"
+			],
+			[
+				"rand",
+				"rand_num"
+			],
+			[
+				"num",
+				"num_members"
+			],
+			[
+				"list",
+				"listsize"
+			],
+			[
+				"Mess",
+				"MsgTypes"
+			],
+			[
+				"msgTy",
+				"msgTypeStr\t(MP1Node.cpp)"
+			],
+			[
+				"JOIN",
+				"JOINREP"
+			],
+			[
+				"new",
+				"newNode"
+			],
+			[
+				"push",
+				"push_back\t(MP1Node.cpp)"
+			],
+			[
+				"Me",
+				"MemberListEntry"
+			],
+			[
+				"set",
+				"setheartbeat\t(Member.h)"
+			],
+			[
+				"it",
+				"it"
+			],
+			[
+				"add",
+				"addr"
+			],
+			[
+				"memp",
+				"memcpy"
+			],
+			[
+				"join",
+				"joinaddr"
+			],
+			[
+				"memer",
+				"memberNode"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"msg",
+				"msgType"
+			],
+			[
+				"ini",
+				"initialModel"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"new-",
+				"new-secret-input\t(index.html)"
+			],
+			[
+				"sec",
+				"secret\t(app.js)"
+			],
+			[
+				"secre",
+				"secrets"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"body",
+				"body-parser\t(app.js)"
+			],
+			[
+				"new-sec",
+				"new-secret-input\t(index.html)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"bor",
+				"border-box"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"tw",
+				"tweet\t(app.js)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"clojure",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime repl",
+				"Build With: sublimerepl_build_system_hack"
+			],
+			[
+				"cloju",
+				"Set Syntax: Clojure"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/msaleem/riak_core_workshop_euc2016",
+		"/Users/msaleem/riak_core_workshop_euc2016/0_base_project",
+		"/Users/msaleem/riak_core_workshop_euc2016/0_base_project/elixir/lib/yakdb",
+		"/Users/msaleem/riak_core_workshop_euc2016/1_plain_hash/elixir",
+		"/Users/msaleem/riak_core_workshop_euc2016/1_plain_hash/elixir/lib",
+		"/Users/msaleem/riak_core_workshop_euc2016/1_plain_hash/elixir/lib/simple_hash",
+		"/Users/msaleem/riak_core_workshop_euc2016/2_kv",
+		"/Users/msaleem/riak_core_workshop_euc2016/2_kv/elixir",
+		"/Users/msaleem/riak_core_workshop_euc2016/2_kv/elixir/lib",
+		"/Users/msaleem/riak_core_workshop_euc2016/2_kv/elixir/lib/silly_kv"
+	],
+	"file_history":
+	[
+		"/Users/msaleem/riak_core_workshop_euc2016/0_base_project/elixir/README.md",
+		"/Users/msaleem/riak_core_workshop_euc2016/1_plain_hash/elixir/lib/simple_hash/service.ex",
+		"/Users/msaleem/riak_core_workshop_euc2016/0_base_project/elixir/mix.exs",
+		"/Users/msaleem/riak_core_workshop_euc2016/0_base_project/README.md",
+		"/Users/msaleem/Code/kata-binary/test/fixtures/file_utf8_bom.txt",
+		"/Users/msaleem/Code/java/my-app/target/site/index.html",
+		"/Users/msaleem/Code/learn_clojure/Learning Clojure - Working Files/Chapter 2/No Work Files.rtf",
+		"/Users/msaleem/Code/mp1/stdincludes.h",
+		"/Users/msaleem/Code/mp1/Member.cpp",
+		"/Users/msaleem/Code/mp1/Member.h",
+		"/Users/msaleem/Code/mp1/MP1Node.h",
+		"/Users/msaleem/Code/mp1/MP1Node.cpp",
+		"/Users/msaleem/Code/mp1/EmulNet.h",
+		"/Users/msaleem/Code/mp1_assignment/MP1Node.cpp",
+		"/Users/msaleem/Code/mp1/Application.cpp",
+		"/Users/msaleem/Code/mp1/Queue.h",
+		"/Users/msaleem/Code/elm/counter/Main.elm",
+		"/Users/msaleem/Code/elm/bigger-counter/Main.elm",
+		"/Users/msaleem/Code/elm/Main.elm",
+		"/Users/msaleem/Code/intro-to-webdev-app/my-app/app.js",
+		"/Users/msaleem/Code/intro-to-webdev-app/app/app.js",
+		"/Users/msaleem/Code/intro-to-webdev-app/app/public/tweet.js",
+		"/Users/msaleem/Code/intro-to-webdev-app/app/public/style.css",
+		"/Users/msaleem/Code/intro-to-webdev-app/app/public/index.html",
+		"/Users/msaleem/Code/intro-to-webdev-app/my-app/public/index.html",
+		"/Users/msaleem/Code/intro-to-webdev-app/my-app/public/style.css",
+		"/Users/msaleem/Code/intro-to-webdev-app/my-app/public/secrets.js",
+		"/Users/msaleem/Code/intro-to-webdev-app/node-exercises/express/app.js",
+		"/Users/msaleem/Code/intro-to-webdev-app/node-exercises/static-assets/app.js",
+		"/Users/msaleem/Code/intro-to-webdev-app/node-exercises/posting/public/index.html",
+		"/Users/msaleem/Code/intro-to-webdev-app/node-exercises/posting/public/posting.js",
+		"/Users/msaleem/Code/intro-to-webdev-app/node-exercises/posting/app.js",
+		"/Users/msaleem/Code/intro-to-webdev-app/node-exercises/params/app.js",
+		"/Users/msaleem/Code/intro-to-webdev-app/node-exercises/cheer-jeer/app.js",
+		"/Users/msaleem/Code/intro-to-webdev-app/node-exercises/ex1/app.js",
+		"/Users/msaleem/Code/intro-to-webdev-app/node-exercises/basic/app.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"handle_join_reply",
+			"handle_joinreq",
+			"handle_pin",
+			"nodeLoopOps",
+			"ops",
+			"_joinreq",
+			"joinreq",
+			"rand",
+			"to_string",
+			"logNodeAdd",
+			"memcpyMemberListEntry",
+			"log =",
+			"log=",
+			"log",
+			"updateMember",
+			"par",
+			"class A",
+			"address",
+			"joinaddr",
+			"recvJoinReq",
+			"callback",
+			"getJoinAddress",
+			"joinaddr",
+			"port =",
+			"port",
+			"memberList",
+			"memberlist",
+			"milliseconds",
+			"timestamp",
+			"port = ",
+			"port",
+			"memberList",
+			"MemberlistE",
+			"recv",
+			"memberList",
+			"introduceSelfToGroup",
+			"Node failed at",
+			"heartbeat",
+			"hearbeat",
+			"log->LOG",
+			"heartbeat",
+			"id =",
+			"ENrecv",
+			"joinreq",
+			"\n    ",
+			"mp1q",
+			"mp1",
+			"Member",
+			"member",
+			"trying",
+			"joinaddr",
+			"got",
+			"joinaddr",
+			"trying to join",
+			"your code",
+			"introduceSelfToGroup",
+			"introduced node is assigned with the address",
+			"your ",
+			"your code",
+			"font",
+			"response"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/msaleem/riak_core_workshop_euc2016"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.elm_type":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"read",
+				"0_base_project/elixir/README.md"
+			],
+			[
+				"mix",
+				"0_base_project/elixir/mix.exs"
+			],
+			[
+				"elixir",
+				"0_base_project/elixir/README.md"
+			],
+			[
+				"",
+				"0_base_project/README.md"
+			],
+			[
+				"mca",
+				"lib/mcassandra.ex"
+			],
+			[
+				"re",
+				"README.md"
+			],
+			[
+				"ut",
+				"test/fixtures/file_utf8_bom.txt"
+			],
+			[
+				"test",
+				"test/binary_kata_test.exs"
+			],
+			[
+				"bina",
+				"lib/binary_kata.ex"
+			],
+			[
+				"mem",
+				"Member.cpp"
+			],
+			[
+				"inclu",
+				"stdincludes.h"
+			],
+			[
+				"mp1",
+				"mp1_assignment/MP1Node.cpp"
+			],
+			[
+				"qu",
+				"Queue.h"
+			],
+			[
+				"tw",
+				"app/public/tweet.js"
+			],
+			[
+				"app",
+				"app/app.js"
+			],
+			[
+				"st",
+				"app/public/style.css"
+			],
+			[
+				"index",
+				"app/public/index.html"
+			],
+			[
+				"styl",
+				"app/public/style.css"
+			],
+			[
+				"inde",
+				"app/public/index.html"
+			],
+			[
+				"twe",
+				"app/public/tweet.js"
+			],
+			[
+				"sty",
+				"app/public/style.css"
+			],
+			[
+				"style",
+				"my-app/public/style.css"
+			],
+			[
+				"secr",
+				"my-app/public/secrets.js"
+			],
+			[
+				"static",
+				"node-exercises/static-assets/app.js"
+			],
+			[
+				"express/",
+				"node-exercises/express/app.js"
+			],
+			[
+				"index.html",
+				"app/public/index.html"
+			],
+			[
+				"posting",
+				"posting/app.js"
+			],
+			[
+				"post",
+				"posting/public/posting.js"
+			],
+			[
+				"posting/public",
+				"posting/public/index.html"
+			],
+			[
+				"para",
+				"params/app.js"
+			],
+			[
+				"stat",
+				"static-assets/app.js"
+			],
+			[
+				"cheer",
+				"cheer-jeer/app.js"
+			],
+			[
+				"ex1",
+				"ex1/app.js"
+			],
+			[
+				"exp",
+				"express/app.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Code/mcassandra.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
